@@ -8,7 +8,7 @@ A full-stack web application to manage a bookstore catalog. It has a REST API bu
 
 Watch a 3-minute walkthrough of the project:
 
-
+https://drive.google.com/file/d/1UVuFWVj2d9mdgl2lw3fzTct26nVEF2CI/view?usp=sharing
 
 WATCH A output video of the project :
 
