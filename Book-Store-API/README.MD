@@ -8,21 +8,11 @@ A full-stack web application to manage a bookstore catalog. It has a REST API bu
 
 Watch a 3-minute walkthrough of the project:
 
-https://drive.google.com/file/d/1pspa96jmr7iXAefPixl1UD9CTKPNuRxf/view?usp=sharing
 
----
 
-## Screenshots
+WATCH A output video of the project :
 
-### Dashboard Overview
-
-![Dashboard Overview](https://github.com/jesskp0886-spec/Node-js/blob/05e52f4d3c6ac26d6870dee73c8e45847f210162/Book-Store-API/Img-1.png)
-
-*The book table.*
-
-![Add Book Form](https://github.com/jesskp0886-spec/Node-js/blob/05e52f4d3c6ac26d6870dee73c8e45847f210162/Book-Store-API/Img-2.png)
-
----
+https://drive.google.com/file/d/1s3vcGS4dJ92eAdVMR74N8JSYK8Sv7_P_/view?usp=sharing
 
 ## Table of Contents
 
